@@ -4,6 +4,10 @@ using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
 using MyFanControl.Modern.Models;
+using Brush = System.Windows.Media.Brush;
+using MouseEventArgs = System.Windows.Input.MouseEventArgs;
+using Pen = System.Windows.Media.Pen;
+using Point = System.Windows.Point;
 
 namespace MyFanControl.Modern.Controls;
 
