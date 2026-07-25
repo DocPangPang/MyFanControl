@@ -1,0 +1,20 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+*.cache
+
+# Local runtime files
+native/
+*.log
+*.cfg
+
+# Never commit proprietary or third-party native components.
+ClevoEcInfo.dll
+NVGPU_DLL.dll
+ntport.dll
+zntport.sys
+NTPortDrv*
