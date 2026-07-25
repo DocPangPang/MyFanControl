@@ -3,6 +3,7 @@ using System.Windows;
 using MyFanControl.Modern.Hardware;
 using MyFanControl.Modern.Models;
 using MyFanControl.Modern.Services;
+using Application = System.Windows.Application;
 
 namespace MyFanControl.Modern.ViewModels;
 
